@@ -1,6 +1,10 @@
 # Recipe Website
 Project Created on the recipe website
 
+## Project Link:
+
+- GITHUB : CLICK ME TO Preview [Github](https://deepshikha997.github.io/RecipeWebsite/)
+
 ## Technologies Used
 
 -HTML
